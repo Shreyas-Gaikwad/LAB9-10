@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306503120192",
+    "project_id": "sneakrush-d06de",
+    "storage_bucket": "sneakrush-d06de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306503120192:android:3e5b69244b81f5b76276a5",
+        "android_client_info": {
+          "package_name": "com.company.sneakrush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbg1Tt3XF093CU8Pkef8SzV5bm_Afuhro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306503120192:android:fee8496de49856a46276a5",
+        "android_client_info": {
+          "package_name": "com.example.sneaker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbg1Tt3XF093CU8Pkef8SzV5bm_Afuhro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
